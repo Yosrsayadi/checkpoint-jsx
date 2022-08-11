@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import "./styles.css";
+import "./style.css";
 import React,{Fragment} from "react";
 import imageInSrc from "./imageInSrc.jpg"
 
